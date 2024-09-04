@@ -1,0 +1,9 @@
+{
+    "uuid": "uptime-ping@custom",
+    "name": "Uptime and Ping Display",
+    "description": "Displays system uptime and network ping in the GNOME top bar.",
+    "version": 1,
+    "shell-version": ["3.38", "40", "41", "42", "43"],
+    "url": "https://example.com",
+    "settings-schema": "org.gnome.shell.extensions.uptime-ping"
+}
